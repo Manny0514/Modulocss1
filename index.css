@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    
+}
+
+div{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(131, 142, 113);
+}
+
+div:hover{
+    color:rgb(78, 12, 12);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+}
+
+
+
